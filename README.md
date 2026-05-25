@@ -32,3 +32,12 @@ Everything you need to know about Sogou Pinyin — China's most popular Chinese 
 - Android 6.0+ / iOS 12+
 
 Updated May 2026. Community-maintained resource.
+
+
+## 🔗 Related Repositories
+| Category | Repository |
+|----------|-----------|
+| Encrypted Messaging | [encrypted-messaging-apps-comparison](https://github.com/auxwy1328/encrypted-messaging-apps-comparison) · [encrypted-chat-apps-guide](https://github.com/auxwy1328/encrypted-chat-apps-guide) · [safew-messenger-security-guide](https://github.com/auxwy1328/safew-messenger-security-guide) · [telegram-power-user-guide](https://github.com/auxwy1328/telegram-power-user-guide) |
+| Remote Desktop | [remote-desktop-tools-comparison](https://github.com/auxwy1328/remote-desktop-tools-comparison) · [remote-desktop-software-tools](https://github.com/auxwy1328/remote-desktop-software-tools) · [bitbrowser-fingerprint-guide](https://github.com/auxwy1328/bitbrowser-fingerprint-guide) |
+| Productivity | [pdf-office-software-guides](https://github.com/auxwy1328/pdf-office-software-guides) · [sogou-input-method-tips](https://github.com/auxwy1328/sogou-input-method-tips) |
+| Social Media | [social-media-app-tutorials](https://github.com/auxwy1328/social-media-app-tutorials) |
